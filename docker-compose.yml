@@ -1,0 +1,5 @@
+webmin:
+  image: andonebekasi/andi-webserver
+  ports:
+    - "443:443"
+
